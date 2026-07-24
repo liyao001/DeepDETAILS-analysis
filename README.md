@@ -1,5 +1,5 @@
 This code repo hosts scripts and analysis protocols used to generate results that are reported in our study: 
-> Yao, L. et al. High-resolution reconstruction of cell-type specific transcriptional regulatory processes from bulk sequencing samples. [Preprint at bioRxiv](https://doi.org/10.1101/2025.04.02.646189) (2025).
+> [Yao, L. et al. High-resolution reconstruction of cell-type-specific transcriptional regulatory processes from bulk sequencing samples. Nat Biotechnol 1–12 (2026) doi:10.1038/s41587-026-03218-w.](https://doi.org/10.1038/s41587-026-03218-w).
 
 ## Structure of this repo
 ### Protocols
